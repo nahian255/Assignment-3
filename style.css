@@ -2,8 +2,12 @@
     font-style: italic;
 }
 
-@media screen and (max-width: 992px) {
+/* tab view ............ */
+
+@media screen and (max-width: 994px) {
     .hidden {
         display: none;
     }
+
+    .cusmot {}
 }
